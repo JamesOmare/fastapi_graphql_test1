@@ -1,2 +1,2 @@
 # fastapi_graphql_test
-A simple fast Api Application using Graphql using the strawberry libraray
+A simple fast Api Application with Graphql using the strawberry libraray
